@@ -116,4 +116,10 @@ Reforged-v1.36.0.20144-w3t-b8db0de
 Reforged-v1.36.0.20257
 Reforged-v1.36.1.20613
 Reforged-v1.36.1.20719-w3-51d40ee
+Reforged-v2.0.2.22692-w3t
+Reforged-v2.0.3.22904-w3t
+Reforged-v2.0.3.23175-w3-8ddf8a2
+Reforged-v2.0.4.23727-w3t-bfa6462
 Reforged-v2.0.4.23745
+Reforged-v2.0.4.23745-w3-9a94ff7
+Reforged-v3.0.0.24268-w3-3a9d8f2
